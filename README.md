@@ -1,4 +1,10 @@
-# Nextcloud Breeze Dark Theme
+# Nextcloud Breeze Dark Theme ext my mko-x
+
+Provide nice choosable theme for nextcloud.
+
+Extends [mwalbeck/nextcloud-breeze-dark](https://github.com/mwalbeck/nextcloud-breeze-dark)
+
+# Original README
 This is a Breeze Dark Theme for [Nextcloud](https://nextcloud.com) based on the Breeze Dark theme made by the KDE Project.
 
 The icons are from the default Nextcloud theme and the individual apps, with the colors changed to better fit the theme.
